@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/projects/Новая папка/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -g -o CMakeFiles\\main.dir\\main.cpp.obj -c \"C:\\projects\\Новая папка\\main.cpp\"",
+  "file": "C:\\projects\\Новая папка\\main.cpp",
+  "output": "CMakeFiles\\main.dir\\main.cpp.obj"
+}
+]
